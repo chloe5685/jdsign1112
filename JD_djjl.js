@@ -5,8 +5,7 @@
  * 
  * 东东电竞经理
  * 活动地址：https://xinruidddj-isv.isvjcloud.com
- * 活动时间：长期
- * 
+ * 活动时间：长期 * 
  * 账号内循环助力
  * 
  * 15 10 * * * https://raw.githubusercontent.com/linxi915/shuyuan/shuyuan/Quantumult_X/JD_djjl.js, tag=东东电竞经理, img-url=https://raw.githubusercontent.com/linxi915/shuyuan/shuyuan/ICON/shuyuan.png, enabled=true

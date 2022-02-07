@@ -1,12 +1,12 @@
 # This workflow will do a clean install of node dependencies, build the source code and run tests across different versions of node
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
 
-name: jd_cjhz.js
+name: jd_city
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '36 18,19 * * *'
+    - cron: '33 10,12,21 * * *'
   
   watch:
     types: started
@@ -37,7 +37,7 @@ jobs:
          
       - name: '运行'
         run: |
-          node jd_cjhz.js
+          node jd_city.js
          
           
         env:
